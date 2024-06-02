@@ -1,0 +1,16 @@
+{
+  "name": "challenge-insight-api",
+  "version": "1.0.0",
+  "description": "rest api for insight challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./server.js"
+  },
+  "keywords": [],
+  "author": "Marcelo Santana Marques",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
