@@ -6,21 +6,21 @@
       "address": "Rua da Uva - 123",
       "phone": "85998470913",
       "email": "grupoboticario@email.com",
-      "createdAt": "2023-01-29T12:36:44.505",
+      "createdAt": "2018-01-29T12:36:44.505",
       "id": "33ad82fd-a566-45af-aa5c-2ccf4c7d7499"
     },
     {
       "name": "Natura Cosméticos",
-      "status": "Ativo",
+      "status": "Inativo",
       "address": "Avenida dos Pinheiros - 456",
       "phone": "11987654321",
       "email": "contato@natura.com",
-      "createdAt": "2022-11-15T09:22:35.501",
+      "createdAt": "2014-11-15T09:22:35.501",
       "id": "c3d123b2-8a22-4c29-a4b0-1fd8b4a1c0a2"
     },
     {
       "name": "Avon Brasil",
-      "status": "Ativo",
+      "status": "Inativo",
       "address": "Rua das Flores - 789",
       "phone": "21999887766",
       "email": "suporte@avon.com",
@@ -38,7 +38,7 @@
     },
     {
       "name": "Mary Kay Brasil",
-      "status": "Ativo",
+      "status": "Inativo",
       "address": "Avenida Paulista - 1234",
       "phone": "41987651234",
       "email": "marykay@contato.com",
@@ -101,7 +101,7 @@
     },
     {
       "name": "Eudora",
-      "status": "Ativo",
+      "status": "Inativo",
       "address": "Avenida das Oliveiras - 432",
       "phone": "41987651234",
       "email": "contato@eudora.com",
@@ -114,7 +114,7 @@
       "address": "Rua dos Cedros - 123",
       "phone": "51999884477",
       "email": "suporte@bepantol.com",
-      "createdAt": "2022-08-25T09:20:15.715",
+      "createdAt": "2021-08-25T09:20:15.715",
       "id": "6e0f1c2d-9b8d-4e2c-8a5d-7c8a9e4d1e8f"
     },
     {
@@ -123,7 +123,7 @@
       "address": "Avenida das Américas - 876",
       "phone": "62998765544",
       "email": "contato@jnjbrasil.com",
-      "createdAt": "2023-04-18T14:50:32.908",
+      "createdAt": "2022-04-18T14:50:32.908",
       "id": "7f1d2e3c-0d4b-4e2a-8b5e-8d9a1f2e0c9f"
     },
     {
@@ -132,7 +132,7 @@
       "address": "Rua das Magnólias - 654",
       "phone": "71987766554",
       "email": "contato@oceane.com",
-      "createdAt": "2022-10-10T12:44:23.556",
+      "createdAt": "2019-10-10T12:44:23.556",
       "id": "8f2e3d4c-1e5a-4d2c-8b5d-9c0a2e3d1f7f"
     },
     {
@@ -150,8 +150,26 @@
       "address": "Rua das Azaleias - 789",
       "phone": "91987651234",
       "email": "contato@nivea.com",
-      "createdAt": "2022-11-14T10:33:22.708",
+      "createdAt": "2021-11-14T10:33:22.708",
       "id": "0g4b5e6f-3f7c-4d4a-8b5e-1d2a4e5f3h9f"
+    },
+    {
+      "id": "43c0c9af-adf2-45f6-8f83-736a7ace9614",
+      "name": "Grupo Globo",
+      "email": "globo@email.com",
+      "phone": "11983399839",
+      "address": "Av Brasil - 299",
+      "status": "Ativo",
+      "createdAt": "2024-06-09T03:44:35.479Z"
+    },
+    {
+      "name": "Nike",
+      "status": "Inativo",
+      "address": "Miami Beach - 2900",
+      "phone": "11998877266",
+      "email": "nike@email.com",
+      "createdAt": "2024-06-09T03:45:11.784Z",
+      "id": "85c6cb59-c88f-4d75-a84c-1fefff98852f"
     }
   ]
 }
