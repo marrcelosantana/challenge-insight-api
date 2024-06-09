@@ -1,193 +1,157 @@
 {
   "suppliers": [
     {
-      "name": "John Doe",
-      "status": "Inativo",
+      "name": "Grupo Boticário",
+      "status": "Ativo",
       "address": "Rua da Uva - 123",
       "phone": "85998470913",
-      "email": "johndoe@email.com",
+      "email": "grupoboticario@email.com",
       "createdAt": "2023-01-29T12:36:44.505",
-      "id": "87f7s983"
+      "id": "33ad82fd-a566-45af-aa5c-2ccf4c7d7499"
     },
     {
-      "name": "Marcelo Santana",
-      "status": "Inativo",
-      "address": "Rua das Flores - 789",
-      "phone": "85997678920",
-      "email": "marcelo@email.com",
-      "createdAt": "2023-01-29T12:36:44.505",
-      "id": "09dhs65g"
-    },
-    {
-      "name": "Nayara Oliveira Ledo",
+      "name": "Natura Cosméticos",
       "status": "Ativo",
-      "address": "Rua Albuquerque Almeida - 900",
-      "phone": "8588887773",
-      "email": "nayaraledo77@email.com",
-      "createdAt": "2024-05-31T00:14:05.205Z",
-      "id": "33ad82fd-a566-45af-aa5c-2ccf4c7d7422"
+      "address": "Avenida dos Pinheiros - 456",
+      "phone": "11987654321",
+      "email": "contato@natura.com",
+      "createdAt": "2022-11-15T09:22:35.501",
+      "id": "c3d123b2-8a22-4c29-a4b0-1fd8b4a1c0a2"
     },
     {
-      "id": "1a2b3c4d",
-      "name": "Lucas Silva",
-      "address": "Avenida Central - 456",
-      "phone": "85998765432",
-      "email": "lucas.silva@email.com",
-      "createdAt": "2022-11-10T08:20:30.123",
-      "status": "Ativo"
+      "name": "Avon Brasil",
+      "status": "Ativo",
+      "address": "Rua das Flores - 789",
+      "phone": "21999887766",
+      "email": "suporte@avon.com",
+      "createdAt": "2023-03-12T10:50:24.331",
+      "id": "6f1c4b78-761e-4b7f-a8de-3b5b0c3bfc9d"
     },
     {
-      "id": "5e6f7g8h",
-      "name": "Carla Souza",
-      "address": "Rua das Acácias - 321",
-      "phone": "85999887766",
-      "email": "carla.souza@email.com",
-      "createdAt": "2021-06-15T14:22:44.789",
-      "status": "Inativo"
+      "name": "Jequiti Cosméticos",
+      "status": "Ativo",
+      "address": "Rua das Rosas - 101",
+      "phone": "31988776655",
+      "email": "contato@jequiti.com",
+      "createdAt": "2022-10-20T11:14:45.506",
+      "id": "2a9e4d89-5f0e-4a77-828a-4b77d5c2e3e4"
     },
     {
-      "id": "9i0j1k2l",
-      "name": "Pedro Santos",
-      "address": "Avenida Brasil - 789",
-      "phone": "85995544332",
-      "email": "pedro.santos@email.com",
-      "createdAt": "2020-03-05T10:15:20.456",
-      "status": "Ativo"
+      "name": "Mary Kay Brasil",
+      "status": "Ativo",
+      "address": "Avenida Paulista - 1234",
+      "phone": "41987651234",
+      "email": "marykay@contato.com",
+      "createdAt": "2023-05-22T14:36:21.401",
+      "id": "4b1d2c78-92d6-49df-8d2f-6a7d8e3f1a9b"
     },
     {
-      "id": "3m4n5o6p",
-      "name": "Ana Costa",
-      "address": "Rua do Sol - 567",
-      "phone": "85996655443",
-      "email": "ana.costa@email.com",
-      "createdAt": "2021-12-25T16:45:33.987",
-      "status": "Inativo"
+      "name": "L'Oreal Brasil",
+      "status": "Ativo",
+      "address": "Rua do Comércio - 567",
+      "phone": "51999884477",
+      "email": "loreal@brasil.com",
+      "createdAt": "2023-02-18T13:25:33.251",
+      "id": "8c3e1b57-4f25-4291-9b5e-7e5a9c1d0c3b"
     },
     {
-      "id": "7q8r9s0t",
-      "name": "Rafael Lima",
-      "address": "Avenida das Palmeiras - 987",
-      "phone": "85993322110",
-      "email": "rafael.lima@email.com",
-      "createdAt": "2019-07-14T11:30:55.654",
-      "status": "Ativo"
+      "name": "O Boticário",
+      "status": "Inativo",
+      "address": "Avenida Brasil - 890",
+      "phone": "62998765544",
+      "email": "boticario@oboticario.com",
+      "createdAt": "2022-12-30T09:44:12.112",
+      "id": "0d2e5f34-6d5a-4d28-8a29-1e7b9a0f5c5a"
     },
     {
-      "id": "5y6z7a8b",
-      "name": "Fernando Almeida",
-      "address": "Avenida dos Pássaros - 456",
-      "phone": "85992211000",
-      "email": "fernando.almeida@email.com",
-      "createdAt": "2023-08-19T14:10:50.678",
-      "status": "Inativo"
+      "name": "Dove Brasil",
+      "status": "Ativo",
+      "address": "Rua dos Lírios - 321",
+      "phone": "71987766554",
+      "email": "contato@dove.com",
+      "createdAt": "2023-04-14T15:50:29.412",
+      "id": "1f3a6c89-2f4b-4d8c-9a5d-2c6a7e1d3b8e"
     },
     {
-      "id": "9c0d1e2f",
-      "name": "Beatriz Araújo",
-      "address": "Rua das Estrelas - 789",
-      "phone": "85991122334",
-      "email": "beatriz.araujo@email.com",
-      "createdAt": "2020-11-23T13:40:28.456",
-      "status": "Ativo"
+      "name": "Granado Pharmácias",
+      "status": "Inativo",
+      "address": "Rua das Palmeiras - 654",
+      "phone": "81987654321",
+      "email": "suporte@granado.com",
+      "createdAt": "2022-09-28T12:30:44.563",
+      "id": "2c4e8a90-5a6d-4e2c-9d4e-3e5a9b2d0c6f"
     },
     {
-      "id": "3g4h5i6j",
-      "name": "Gustavo Mendes",
-      "address": "Avenida da República - 123",
-      "phone": "85990011223",
-      "email": "gustavo.mendes@email.com",
-      "createdAt": "2018-04-17T15:35:44.789",
-      "status": "Inativo"
+      "name": "Vult Cosmética",
+      "status": "Ativo",
+      "address": "Avenida dos Jacarandás - 987",
+      "phone": "92987651234",
+      "email": "contato@vult.com",
+      "createdAt": "2023-01-05T16:42:35.671",
+      "id": "3b6d7e90-9b8d-4e2a-8a5d-4c7a9f1d2c7b"
     },
     {
-      "id": "7k8l9m0n",
-      "name": "Lívia Torres",
-      "address": "Rua das Américas - 321",
-      "phone": "85998877665",
-      "email": "livia.torres@email.com",
-      "createdAt": "2023-02-28T18:20:15.123",
-      "status": "Ativo"
+      "name": "Quem Disse, Berenice?",
+      "status": "Ativo",
+      "address": "Rua das Acácias - 543",
+      "phone": "31999887766",
+      "email": "contato@quemdisseberenice.com",
+      "createdAt": "2022-07-14T11:14:55.806",
+      "id": "4c8f9a7e-3d2f-4c6d-8b5e-5c7a9e2d0b8f"
     },
     {
-      "id": "1o2p3q4r",
-      "name": "Renato Vieira",
-      "address": "Avenida das Oliveiras - 654",
-      "phone": "85997766554",
-      "email": "renato.vieira@email.com",
-      "createdAt": "2017-09-11T08:45:33.456",
-      "status": "Inativo"
+      "name": "Eudora",
+      "status": "Ativo",
+      "address": "Avenida das Oliveiras - 432",
+      "phone": "41987651234",
+      "email": "contato@eudora.com",
+      "createdAt": "2023-03-20T10:30:22.314",
+      "id": "5d9e0b1f-8c4d-4f2b-8a5e-6e7a9b3c0d9f"
     },
     {
-      "id": "5s6t7u8v",
-      "name": "Daniela Ferreira",
-      "address": "Rua do Campo - 987",
-      "phone": "85996655432",
-      "email": "daniela.ferreira@email.com",
-      "createdAt": "2022-01-21T17:55:20.987",
-      "status": "Ativo"
+      "name": "Bepantol",
+      "status": "Ativo",
+      "address": "Rua dos Cedros - 123",
+      "phone": "51999884477",
+      "email": "suporte@bepantol.com",
+      "createdAt": "2022-08-25T09:20:15.715",
+      "id": "6e0f1c2d-9b8d-4e2c-8a5d-7c8a9e4d1e8f"
     },
     {
-      "id": "9w0x1y2z",
-      "name": "Alexandre Rocha",
-      "address": "Avenida da Independência - 456",
-      "phone": "85995544321",
-      "email": "alexandre.rocha@email.com",
-      "createdAt": "2021-04-30T12:10:44.678",
-      "status": "Inativo"
+      "name": "Johnson & Johnson Brasil",
+      "status": "Ativo",
+      "address": "Avenida das Américas - 876",
+      "phone": "62998765544",
+      "email": "contato@jnjbrasil.com",
+      "createdAt": "2023-04-18T14:50:32.908",
+      "id": "7f1d2e3c-0d4b-4e2a-8b5e-8d9a1f2e0c9f"
     },
     {
-      "id": "3a4b5c6d",
-      "name": "Patrícia Ramos",
-      "address": "Rua do Bosque - 789",
-      "phone": "85994433212",
-      "email": "patricia.ramos@email.com",
-      "createdAt": "2019-06-15T19:40:33.123",
-      "status": "Ativo"
+      "name": "Oceane",
+      "status": "Inativo",
+      "address": "Rua das Magnólias - 654",
+      "phone": "71987766554",
+      "email": "contato@oceane.com",
+      "createdAt": "2022-10-10T12:44:23.556",
+      "id": "8f2e3d4c-1e5a-4d2c-8b5d-9c0a2e3d1f7f"
     },
     {
-      "id": "7e8f9g0h",
-      "name": "Thiago Nunes",
-      "address": "Avenida dos Bandeirantes - 123",
-      "phone": "85993322109",
-      "email": "thiago.nunes@email.com",
-      "createdAt": "2022-10-20T14:25:50.456",
-      "status": "Inativo"
+      "name": "Maybelline Brasil",
+      "status": "Ativo",
+      "address": "Avenida das Hortênsias - 321",
+      "phone": "81987654321",
+      "email": "suporte@maybelline.com",
+      "createdAt": "2023-01-29T13:35:44.607",
+      "id": "9f3a4e5d-2f6b-4d3a-8b5e-0d1a3e4f2g8f"
     },
     {
-      "id": "1i2j3k4l",
-      "name": "Mariana Pereira",
-      "address": "Rua das Mangueiras - 321",
-      "phone": "85992211009",
-      "email": "mariana.pereira@email.com",
-      "createdAt": "2020-05-25T16:50:15.789",
-      "status": "Ativo"
-    },
-    {
-      "id": "5m6n7o8p",
-      "name": "Rodrigo Carvalho",
-      "address": "Avenida do Contorno - 456",
-      "phone": "85991122320",
-      "email": "rodrigo.carvalho@email.com",
-      "createdAt": "2023-03-11T11:30:55.321",
-      "status": "Inativo"
-    },
-    {
-      "id": "9q0r1s2t",
-      "name": "Larissa Gomes",
-      "address": "Rua do Horizonte - 654",
-      "phone": "85990011220",
-      "email": "larissa.gomes@email.com",
-      "createdAt": "2021-07-30T18:40:28.987",
-      "status": "Ativo"
-    },
-    {
-      "id": "3u4v5w6x",
-      "name": "André Oliveira",
-      "address": "Avenida dos Oceanos - 987",
-      "phone": "85998877655",
-      "email": "andre.oliveira@email.com",
-      "createdAt": "2022-09-25T09:35:44.123",
-      "status": "Inativo"
+      "name": "Nivea Brasil",
+      "status": "Ativo",
+      "address": "Rua das Azaleias - 789",
+      "phone": "91987651234",
+      "email": "contato@nivea.com",
+      "createdAt": "2022-11-14T10:33:22.708",
+      "id": "0g4b5e6f-3f7c-4d4a-8b5e-1d2a4e5f3h9f"
     }
   ]
 }
