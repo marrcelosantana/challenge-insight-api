@@ -105,7 +105,7 @@
       "address": "Avenida das Oliveiras - 432",
       "phone": "41987651234",
       "email": "contato@eudora.com",
-      "createdAt": "2023-03-20T10:30:22.314",
+      "createdAt": "2024-03-20T10:30:22.314",
       "id": "5d9e0b1f-8c4d-4f2b-8a5e-6e7a9b3c0d9f"
     },
     {
@@ -119,7 +119,7 @@
     },
     {
       "name": "Johnson & Johnson Brasil",
-      "status": "Ativo",
+      "status": "Inativo",
       "address": "Avenida das Américas - 876",
       "phone": "62998765544",
       "email": "contato@jnjbrasil.com",
@@ -141,7 +141,7 @@
       "address": "Avenida das Hortênsias - 321",
       "phone": "81987654321",
       "email": "suporte@maybelline.com",
-      "createdAt": "2023-01-29T13:35:44.607",
+      "createdAt": "2024-03-29T13:35:44.607",
       "id": "9f3a4e5d-2f6b-4d3a-8b5e-0d1a3e4f2g8f"
     },
     {
@@ -150,7 +150,7 @@
       "address": "Rua das Azaleias - 789",
       "phone": "91987651234",
       "email": "contato@nivea.com",
-      "createdAt": "2021-11-14T10:33:22.708",
+      "createdAt": "2024-02-14T10:33:22.708",
       "id": "0g4b5e6f-3f7c-4d4a-8b5e-1d2a4e5f3h9f"
     },
     {
@@ -170,6 +170,24 @@
       "email": "nike@email.com",
       "createdAt": "2024-06-09T03:45:11.784Z",
       "id": "85c6cb59-c88f-4d75-a84c-1fefff98852f"
+    },
+    {
+      "name": "Adidas Brasil",
+      "status": "Ativo",
+      "address": "Rua ds 3 listras - 500",
+      "phone": "21998816253",
+      "email": "adidas@email.com.br",
+      "createdAt": "2024-06-09T03:49:50.082Z",
+      "id": "f717e944-4310-4f76-b4fd-79d01e00cac1"
+    },
+    {
+      "name": "CIMED",
+      "status": "Ativo",
+      "address": "Rua Amarela - 001",
+      "phone": "21876738908",
+      "email": "cimed@gmail.com",
+      "createdAt": "2024-06-09T03:51:06.827Z",
+      "id": "5be87200-f6b7-467e-be99-1aaaf697fe86"
     }
   ]
 }
